@@ -1,16 +1,9 @@
 # frasesdodia_app
 
-A new Flutter project.
+Objetivo
+-
+Objetivo desse projeto foi por em prática todos meus estudos sobre Flutter. É um aplicação bem simples e básica, em resumo, ao pressionar o botão de "Nova frase" é gerado uma nova frase, de forma randômica,  na tela do app.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Um pequena homenagem...
+-
+As frases geradas nesse app são todas de Alexandre Magno Abrão...
